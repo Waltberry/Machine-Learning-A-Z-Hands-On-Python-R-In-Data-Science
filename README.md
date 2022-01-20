@@ -1,2 +1,3 @@
 # My ML training Repo
-Guided Projects and Templates
+Guided Projects and Templates from training
+
